@@ -11,6 +11,7 @@ yeni_user = (
 "Xoş Gəldin Balam 😍",
 "Səni gözləməydən gözüm qaralıbe gəl çıxdaa",
 "Xoşsann Ürəyimm ❤️",
+"Xoş Gəldin Iki Gözümün Çiçəyi 🤩",
 )
 
 start = (
