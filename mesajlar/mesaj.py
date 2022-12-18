@@ -15,6 +15,7 @@ salam = (
 "Uşş balama salam",
 "Salam Cənab 🫶",
 "Salam Lələ 🔥",
+"Salam Dalyok",
 )
 
 necesen = (
