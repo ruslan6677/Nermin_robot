@@ -20,4 +20,5 @@ start = (
 "Gözdüyürsən deyimki xoş gəldin ? 😂",
 "Ay bala mucuxlamasan olmur ? 😂",
 "Yaman bekarsan ha öz aramızdı 😂",
+"Sox Icine Dalyokk",
 )
