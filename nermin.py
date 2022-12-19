@@ -59,17 +59,12 @@ async def yeni_mesaj(event: events.NewMessage.Event):
 async def yeni_mesaj(event: events.NewMessage.Event):
     await event.reply(f"{random.choice(nermin)}")
 
-@Nermin.on(events.NewMessage(pattern='(?i)ban+'))
-@Nermin.on(events.NewMessage(pattern='(?i)kick+'))
-@Nermin.on(events.NewMessage(pattern='(?i)mute+'))
-async def yeni_mesaj(event: events.NewMessage.Event):
-    await event.reply(f"{random.choice(ban)}")
-
-
 @Nermin.on(events.NewMessage(pattern='(?i)ser+'))
 @Nermin.on(events.NewMessage(pattern='(?i)seri+'))
+@Nermin.on(events.NewMessage(pattern='(?i)katil+'))
 async def yeni_mesaj(event: events.NewMessage.Event):
-await event.reply(f"{random.choice(ser)}")
+    await event.reply(f"{random.choice(ser)}")
+
 
 
 nermin_run = nermin_start.decode("utf8")
