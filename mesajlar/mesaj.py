@@ -60,4 +60,9 @@ ban = (
 "Havada ban kokusu var",
 )
 
+ser = (
+"Salam Xiyar",
+"Ayeeeee",
+)
+
 
